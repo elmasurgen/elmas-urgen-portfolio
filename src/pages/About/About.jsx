@@ -25,7 +25,7 @@ const About = props => {
         <div className="develooper-image col-md-6">
           <img
             className="w-100"
-            src="https://i.resmim.net/H23dE.jpg" 
+            src="https://i.hizliresim.com/f9p1sF.jpg"
             alt="Develooper"
           />
         </div>
